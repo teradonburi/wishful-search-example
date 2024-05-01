@@ -1,0 +1,12 @@
+{
+  "dependencies": { 
+    "openai": "^4.31.0", 
+    "ts-node": "^10.9.2", 
+    "typescript": "^5.4.3", 
+    "wishful-search": "^0.4.7" 
+  },
+  "ts-node": {
+    "esm": true,
+    "experimentalSpecifierResolution": "node"
+  }
+}
